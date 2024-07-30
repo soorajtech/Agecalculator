@@ -6,7 +6,7 @@ The Age Calculator is a powerful and user-friendly tool designed to accurately c
 - 📊 Accurate Calculations: Provides the exact age in years, months, and days.
 - ⚡ Lightweight and Fast: Minimal resource usage ensures quick and efficient calculations.
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 Clone the repository:
 bash
 Copy code
@@ -19,11 +19,16 @@ Run the application:
 bash
 Copy code
 python age_calculator.py
-# 📚 Documentation
+## 📚 Documentation
 For detailed instructions on using the Age Calculator, please refer to the documentation.
 
 ## 🤝 Contributing
 We welcome contributions! Please see the contributing guidelines for more information.
 
-# 📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+### 📧 Contact
+SOORAJ SK - soorajskumar004@gmail.com
+
+Project Link: https://github.com/soorajtech/agecalculator
