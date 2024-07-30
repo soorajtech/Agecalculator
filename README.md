@@ -7,18 +7,12 @@ The Age Calculator is a powerful and user-friendly tool designed to accurately c
 - ⚡ Lightweight and Fast: Minimal resource usage ensures quick and efficient calculations.
 
 ## 🚀 Getting Started
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/soorajtech/agecalculator.git
-Navigate to the project directory:
-bash
-Copy code
-cd agecalculator
-Run the application:
-bash
-Copy code
-python age_calculator.py
+### Clone the repository:
+```git clone https://github.com/soorajtech/agecalculator.git```
+### Navigate to the project directory:
+```cd agecalculator```
+### Run the application:
+```python age_calculator.py```
 ## 📚 Documentation
 For detailed instructions on using the Age Calculator, please refer to the documentation.
 
