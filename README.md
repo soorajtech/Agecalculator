@@ -7,8 +7,8 @@ The Age Calculator is a powerful and user-friendly tool designed to accurately c
 **- ⚡ Lightweight and Fast:** Minimal resource usage ensures quick and efficient calculations.
 
 ## 🛠️ Technologies Used
-**- Languages:** Python.
-**- Technologies:** Standard Python libraries.
+### **- Languages:** Python
+### **- Technologies:** Standard Python libraries
 
 
 ## 🚀 Getting Started
